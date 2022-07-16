@@ -1,0 +1,37 @@
+.form-div{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 25px;
+    width: 50%;
+    border-radius: 5px;
+}
+
+.input-css{
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+    border: none;
+    box-shadow: rgba(29, 29, 29, 0.336) 0px 1px 4px;
+}
+         
+.inputbtn-css {
+    background-image: linear-gradient(to right, #1D976C 0%, #93F9B9  51%, #1D976C  100%);
+
+    padding: 8px 55px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    border: none; 
+    font-weight: 700;           
+    box-shadow: 0 0 20px rgb(105, 104, 104);
+    border-radius: 10px;
+    
+  }
+
+  .inputbtn-css:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
